@@ -1,0 +1,16 @@
+.fullImg{
+    width: 90%;
+    margin: 30px auto;
+}
+.back{
+    display: block;
+    margin: 30px auto;
+    width: 50%;
+
+}
+.fullImg img{
+    width: 90%;
+    height: auto;  
+    display: block;
+    margin: auto; 
+}
